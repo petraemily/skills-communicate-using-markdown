@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "Look at that big bumblebee!";
 ```
+- [x] Get hair dye
+- [ ] Eat dinner
+- [ ] Go to dance class
